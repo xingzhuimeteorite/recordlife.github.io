@@ -1,0 +1,21 @@
+h1 {
+    color:rgb(18, 12, 1);
+    text-align:center;
+}
+p {
+    text-align: center;
+}
+.dr_fixed
+{
+    position:fixed;
+    bottom:30px;
+    right:5px;
+}
+.center{
+    text-align:center;
+}
+.link_fixed{
+    position:fixed;
+    bottom:10px;
+    right:5px;  
+}
