@@ -26,6 +26,14 @@ p {
     background-color: rgb(255, 166, 0);
     margin: auto;
 }
+.cline{
+    position: absolute;
+    left: auto;
+    width: 0px;
+    height: 10px;
+    background-color: rgb(0, 170, 255);
+    margin-left: 50%;/* center*/
+}
 #cline1{
     position: absolute;
     left: auto;
@@ -35,6 +43,7 @@ p {
     margin-left: 50%;/* center*/
 
 }
+
 #cline2{
     position: absolute;
     width: 0px;
